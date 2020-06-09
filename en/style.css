@@ -5,6 +5,9 @@ main {
     margin: 100px auto;
 }
 
+.list-group-item {
+    border: none;
+}
 .garden-table{
     background-color: rgb(127, 255, 212, 0.6);
    
@@ -19,6 +22,17 @@ main {
     padding: 0;
 }
 
+
 .app-functions {
+    width: 
     border: none;
+    list-style-type: none;
+}
+
+.functions-list {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+    border: none;
+    
 }
