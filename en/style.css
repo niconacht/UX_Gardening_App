@@ -1,5 +1,9 @@
+
+
+
+
 main {
-    width: 80%;
+    width: 70%;
     height: 80%;
     
     margin: 100px auto;
@@ -24,7 +28,7 @@ main {
 
 
 .app-functions {
-    width: 
+   
     border: none;
     list-style-type: none;
 }
@@ -35,4 +39,12 @@ main {
     margin: auto;
     border: none;
     
+}
+
+.keywords-intro {
+    list-style-type: none;
+   
+}
+.keyword-list {
+    font-weight: bold;
 }
