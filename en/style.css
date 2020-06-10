@@ -17,6 +17,30 @@ main {
    
 }
 
+.german{
+    text-align: right;
+}
+
+
+.german-btn{
+    background: url("german.png");
+    
+    
+}
+.eng-btn {
+    background: url("../de/eng.png");
+    
+    
+}
+.both-btns {
+    background-size: 100% 100%;
+    opacity: 0.7;
+    width: 65px;
+    height: 35px;
+}
+
+
+
 .hidden{
     display:none;
 }
@@ -48,3 +72,5 @@ main {
 .keyword-list {
     font-weight: bold;
 }
+
+   
